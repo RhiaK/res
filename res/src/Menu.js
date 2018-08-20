@@ -9,7 +9,10 @@ class Menu extends Component {
         <Container>
       	    <Row className="header">
       			<Col>
-      				<img src={logo} />
+      				<img 
+              src={logo}
+              className="image"
+               />
       			</Col>
       		</Row>	
         </Container>

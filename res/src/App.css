@@ -7,6 +7,14 @@ body {
   background-color: white;
   height: 150px;
   padding: 20px;
+  margin-top: 10px;
+  margin-bottom: -60px;
   color: gray;
 }
 
+.image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
